@@ -6,8 +6,8 @@ Just modpacks
 ## Modpacks
 
 ## Active modpacks
-- [BasicCraft 1.18.2](https://jenkins.misilelaboratory.xyz/job/modpack-build/lastSuccessfulBuild/artifact/basiccraft.7z)
-- [SomeMechanics 3](https://jenkins.misilelaboratory.xyz/job/modpack-build/lastSuccessfulBuild/artifact/somemechanics.7z)
+- [BasicCraft 1.18.2](https://jenkins.misilelaboratory.xyz/job/modpacks-build/lastSuccessfulBuild/artifact/basiccraft.7z)
+- [SomeMechanics 3](https://jenkins.misilelaboratory.xyz/job/modpacks-build/lastSuccessfulBuild/artifact/somemechanics.7z)
 
 ### Modpack archives
 
