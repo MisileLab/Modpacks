@@ -1,1 +1,1 @@
-Change to [this link](https://gitea.misilelaboratory.xyz/MisileLaboratory/modpack)
+Change to [this link](https://github.com/misilelab/h3) and [basiccraft](https://github.com/misilelab/additiveplus)
